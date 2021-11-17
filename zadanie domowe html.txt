@@ -1,0 +1,10 @@
+Praca domowa
+
+
+Na kartce formatu A4 o³ówkiem i linijk¹ wykonaæ projekt formularza zawieraj¹cego wszytkie elementy stosowane w formularzach.
+formularz powinien zajmowaæ ca³¹ kartkê formatu A4, u góry powinien byæ podpisany klasa, grópa.
+
+sprawdzane bêdzie:
+zadanie7
+projekt tabeli
+projekt formularza
